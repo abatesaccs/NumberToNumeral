@@ -1,12 +1,12 @@
 using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Project.Models;
+using NumberToNumeral.Models;
 using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Project.Tests
+namespace NumberToNumeral.Tests
 {
     [TestClass]
-    public class ProjectTester
+    public class NumberToNumeralTester
     {
         [TestMethod]
         public void Test_Name_Result()

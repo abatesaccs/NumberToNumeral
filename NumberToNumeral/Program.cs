@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Project.Models {
+namespace NumberToNumeral.Models {
   public class Program{
     static void Main()
     {
